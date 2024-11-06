@@ -1,5 +1,9 @@
 # uts_jarkom_lanjut
 
+Nama: Ahmad Khoirudin
+NIM: 20210801109
+Prodi: Teknik Informatika
+
 Soal Essay
 1. Jelaskan menurut anda apa itu Routing Static?
 2. Jelaskan menurut anda apa itu Routing Dynamic?
